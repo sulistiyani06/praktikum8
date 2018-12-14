@@ -54,10 +54,10 @@ return 0;
 
 Alur algoritma
 
-Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
-Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
-Membandingkan nilai variable HitungStatistik run;
-Flowchart Program 
+1. Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
+2. Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
+3. Membandingkan nilai variable HitungStatistik run;
+ 
 
  **Screenshoot**
 ![Screenshoot](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan2/hasil%202.png)
@@ -141,11 +141,9 @@ return 0;
 
 Alur algoritma
 
-Mendeklarasikan variabel '//input matrik pertama void matrik_1(){' sebagai variable input.
-
-Membaca input dari keyboard '//output matrik pertama cout<<"Matrik Pertama :"<<endl;'
-
-Membandingkan nilai variable main (){ matrik_1(); matrik_2();
+1. Mendeklarasikan variabel '//input matrik pertama void matrik_1(){' sebagai variable input.
+2. Membaca input dari keyboard '//output matrik pertama cout<<"Matrik Pertama :"<<endl;'
+3. Membandingkan nilai variable main (){ matrik_1(); matrik_2();
 
  			hasil();
  			getch();
@@ -268,14 +266,16 @@ return 0;
 
 Alur algoritma
 
-Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
-Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
-Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
+1. Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
+2. Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
+3. Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
+
 **Flowchart Program**
 ![Flowchart](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan4/Flowchart4.png)
 
  **Screenshoot**
 ![Screenshoot](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan4/hasil%204.png)
+
 code program lengkap '''c++ 
 #include <iostream>
 #include <conio.h>
