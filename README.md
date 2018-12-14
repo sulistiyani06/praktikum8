@@ -5,14 +5,18 @@
 
 Alur algoritma
 
-1.Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
-2.Membaca input dari keyboard 'else if(nilai[a] > maks)'
-3.Membandingkan nilai variable //output minimum dan maksimum
-4.Flowchart Program 
+1. Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
+2. Membaca input dari keyboard 'else if(nilai[a] > maks)'
+3. Membandingkan nilai variable //output minimum dan maksimum
+4. Flowchart Program 
 
-Screenshoot 
-
+**Screenshoot**
+![Screenshoot](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan1/hasil%201.png)
 code program lengkap '''c++ //*Program mancari nilai minimum dan maksimum*/
+
+**Flowchart Program**
+![Flowchart](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan1/Flowchart1.png)
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -55,7 +59,7 @@ Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
 Membandingkan nilai variable HitungStatistik run;
 Flowchart Program 
 
-Screnshoot 
+ 
 
 code program lengkap '''c++ 
 #include <iostream>
