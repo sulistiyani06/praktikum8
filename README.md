@@ -151,9 +151,13 @@ Membandingkan nilai variable main (){ matrik_1(); matrik_2();
  			getch();
  			return 0;
  			}
-Flowchart Program
 
-Screenshoot 
+**Screenshoot**
+![Screenshoot](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan3/hasil3.png)
+
+
+**Flowchart Program**
+![Flowchart].(https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan3/Flowchart3.png)
 
 code program lengkap '''c++ 
 #include <iostream>
