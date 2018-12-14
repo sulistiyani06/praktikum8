@@ -5,10 +5,10 @@
 
 Alur algoritma
 
-Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
-Membaca input dari keyboard 'else if(nilai[a] > maks)'
-Membandingkan nilai variable //output minimum dan maksimum
-Flowchart Program 
+1.Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
+2.Membaca input dari keyboard 'else if(nilai[a] > maks)'
+3.Membandingkan nilai variable //output minimum dan maksimum
+4.Flowchart Program 
 
 Screenshoot 
 
