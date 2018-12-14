@@ -271,10 +271,11 @@ Alur algoritma
 Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
 Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
 Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
-Flowchart Program 
+**Flowchart Program**
+![Flowchart](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan4/Flowchart4.png)
 
-Screenshoot 
-
+ **Screenshoot**
+![Screenshoot](https://raw.githubusercontent.com/sulistiyani06/praktikum8/master/latihan4/hasil%204.png)
 code program lengkap '''c++ 
 #include <iostream>
 #include <conio.h>
